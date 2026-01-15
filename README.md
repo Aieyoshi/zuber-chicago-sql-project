@@ -46,6 +46,16 @@ Top companies by trip count:
 
 ---
 
+## Visualizations
+
+### Trips by taxi company (Nov 15–16, 2017)
+![Trips by company](outputs/plot_01_company_trips.png)
+
+### Top 10 dropoff neighborhoods (Nov 2017)
+![Top 10 dropoffs](outputs/plot_04_top10_dropoffs.png)
+
+---
+
 ## Hypothesis Testing (Welch t-test)
 
 ### Setup
